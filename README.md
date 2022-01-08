@@ -1,7 +1,4 @@
-• Biology Student
-• Python Programmer
-• Neuroscience enthusiast
-• Interested in Genetics and Evolution
+Biology Student • Python Programmer
 
 <!---
 abikahs/abikahs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
